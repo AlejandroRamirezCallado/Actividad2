@@ -26,6 +26,7 @@
 		A3B110671E897B42004CE00E /* TVCMiCelda.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3B110661E897B42004CE00E /* TVCMiCelda.swift */; };
 		A3B7542E1EA8D77E0097EFAA /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = A3B7542D1EA8D77E0097EFAA /* GoogleService-Info.plist */; };
 		A3B754301EA8DA1B0097EFAA /* LocationAdmin.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3B7542F1EA8DA1B0097EFAA /* LocationAdmin.swift */; };
+		A3B754321EA91CCC0097EFAA /* Coche.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3B754311EA91CCC0097EFAA /* Coche.swift */; };
 		BF9578D47FC76CBE979AAC70 /* Pods_Login_Screen.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F3D7A54006F6A411CB815FF5 /* Pods_Login_Screen.framework */; };
 /* End PBXBuildFile section */
 
@@ -75,6 +76,7 @@
 		A3B110661E897B42004CE00E /* TVCMiCelda.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TVCMiCelda.swift; sourceTree = "<group>"; };
 		A3B7542D1EA8D77E0097EFAA /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		A3B7542F1EA8DA1B0097EFAA /* LocationAdmin.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocationAdmin.swift; sourceTree = "<group>"; };
+		A3B754311EA91CCC0097EFAA /* Coche.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Coche.swift; sourceTree = "<group>"; };
 		B93F89808D30B46CC710AA11 /* Pods-Login ScreenTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Login ScreenTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Login ScreenTests/Pods-Login ScreenTests.release.xcconfig"; sourceTree = "<group>"; };
 		D71EB1BF9D0118A146D18DF0 /* Pods-Login ScreenTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Login ScreenTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Login ScreenTests/Pods-Login ScreenTests.debug.xcconfig"; sourceTree = "<group>"; };
 		F3D7A54006F6A411CB815FF5 /* Pods_Login_Screen.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Login_Screen.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -173,6 +175,7 @@
 				A3B110661E897B42004CE00E /* TVCMiCelda.swift */,
 				A34708081E8AA481006DF1FE /* CVCMiCelda2.swift */,
 				A3B7542F1EA8DA1B0097EFAA /* LocationAdmin.swift */,
+				A3B754311EA91CCC0097EFAA /* Coche.swift */,
 			);
 			path = "Login Screen";
 			sourceTree = "<group>";
@@ -481,6 +484,7 @@
 				A3B110671E897B42004CE00E /* TVCMiCelda.swift in Sources */,
 				A3B110631E89781E004CE00E /* VCItem1.swift in Sources */,
 				868D48971E83B62A0021DB30 /* AppDelegate.swift in Sources */,
+				A3B754321EA91CCC0097EFAA /* Coche.swift in Sources */,
 				A3B754301EA8DA1B0097EFAA /* LocationAdmin.swift in Sources */,
 				868D48C51E83C0B80021DB30 /* RegisterPageViewController.swift in Sources */,
 				A34708091E8AA481006DF1FE /* CVCMiCelda2.swift in Sources */,
