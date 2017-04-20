@@ -19,5 +19,53 @@
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Login Screen/VCItem1.swift"
+            timestampString = "514399355.268047"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Login_Screen.VCItem1.viewDidLoad () -&gt; ()"
+                  moduleName = "Login Screen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alejandro.ramirez/Documents/ActividadDef-master-master/Actividad2/Login%20Screen/VCItem1.swift"
+                  timestampString = "514399359.111686"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "455">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Login_Screen.VCItem1.(viewDidLoad () -&gt; ()).(closure #1)"
+                  moduleName = "Login Screen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alejandro.ramirez/Documents/ActividadDef-master-master/Actividad2/Login%20Screen/VCItem1.swift"
+                  timestampString = "514399359.127899"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "480">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>

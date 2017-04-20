@@ -18,7 +18,9 @@ class VCItem1: UIViewController, UITableViewDelegate, UITableViewDataSource {
         let refHandle =
             DataHolder.sharedInstance.firDataBaseRef.child("coche").observe(FIRDataEventType.value, with: {
             (snapshot) in
-                print("LO DESCARGADO ES: ", snapshot.value)
+                var arTemp=snapshot.value as? Array<AnyObject>
+                let coche0=arTemp?[0] as? [String:AnyObject]
+                print("EL COCHE EN LA POSICION 0 ES: ",coche0?["Fabricado"])
                 
                 
             //let postDict = snapshot.value as? [String: AnyObject] ?? [:]
