@@ -20,7 +20,7 @@ class VCItem3: UIViewController, LocationAdminDelegate {
         
         
         var coordTemp2:CLLocationCoordinate2D = CLLocationCoordinate2D()
-        coordTemp2.latitude = 38.4165000
+        coordTemp2.latitude = 39.4165000
         coordTemp2.longitude = -5.7025600
         agregarPin(coordenada: coordTemp2, titulo: "PIN2")
 

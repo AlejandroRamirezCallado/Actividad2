@@ -8,6 +8,7 @@ target 'Login Screen' do
   # Pods for Login Screen
   pod 'Firebase/Core'
   pod 'Firebase/Messaging'
+  pod 'Firebase/Database'
 
   target 'Login ScreenTests' do
     inherit! :search_paths
